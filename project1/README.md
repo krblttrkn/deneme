@@ -4,4 +4,4 @@
 afklndasdhasjdmlmd
 dmnkjasndaspdkwkdkwjndıopsd
 
-[lorem_ipsum](http://www.google.com)
+[loremipsum](http://www.google.com)
